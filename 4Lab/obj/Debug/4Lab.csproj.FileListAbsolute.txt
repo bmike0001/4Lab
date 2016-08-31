@@ -1,0 +1,6 @@
+c:\ExpIT\Demos\4Lab\4Lab\bin\Debug\4Lab.exe.config
+c:\ExpIT\Demos\4Lab\4Lab\bin\Debug\4Lab.exe
+c:\ExpIT\Demos\4Lab\4Lab\bin\Debug\4Lab.pdb
+c:\ExpIT\Demos\4Lab\4Lab\obj\Debug\4Lab.csprojResolveAssemblyReference.cache
+c:\ExpIT\Demos\4Lab\4Lab\obj\Debug\4Lab.exe
+c:\ExpIT\Demos\4Lab\4Lab\obj\Debug\4Lab.pdb
